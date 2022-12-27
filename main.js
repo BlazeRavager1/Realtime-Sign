@@ -23,7 +23,7 @@ function modelLoaded() {
 function draw() {
   background("#FF0000");
   stroke("#FF0000");
-  text('Shaurya', noseX, noseY);
+  text("Shaurya", noseX, noseY);
   textSize(Difference);
 }
 
